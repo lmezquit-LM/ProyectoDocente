@@ -1,0 +1,27 @@
+PROYECTO DOCENTE — RECURSOS INTERACTIVOS
+
+Repositorio: https://github.com/lmezquit-LM/ProyectoDocente
+Actualizar el mismo repositorio del proyecto docente. No crear otro. Conservar las carpetas fichas y fichas_recortadas.
+
+index.html: página central con tres secciones: competencias, sistema de evaluación y planificación temporal.
+evaluacion.html: sistema de evaluación interactivo y normativa UJI.
+La planificación temporal se añadirá después; por ahora está marcada En preparación.
+competencias.html: tabla interactiva con fichas. Vista limpia para insertar directamente en Genially.
+La planificación temporal figura en la portada como «En preparación»; todavía no tiene subpágina.
+
+Para Genially, utilizar la dirección publicada que termine en /competencias.html si se quiere mostrar solo la tabla, o la dirección principal para mostrar el menú.
+
+Leyenda de la tabla:
+El sombreado verde indica actividades realizadas en el aula con autocorrección o respuesta de la plataforma y retroalimentación docente; el morado, práctica autónoma con autocorrección; y el amarillo, actividades calificables (A11, A14 y A24), con prioridad sobre los demás colores. Las actividades sin sombreado no incorporan autocorrección en plataforma, aunque incluyen orientación y retroalimentación docente.
+
+Evaluación: F = prueba de evaluación formativa; T = prueba teórica final; P = prueba práctica de desarrollo; G = proyecto grupal.
+Fichas originales de las páginas 110–129. A14 y A24: extractos del apartado Proyecto grupal (pp. 134–135).
+
+ACTUALIZACIÓN DE EVALUACIÓN
+Subir index.html, evaluacion.html y LEEME.txt a la raíz del repositorio, sustituyendo los archivos del mismo nombre. La tabla competencias.html y sus fichas no necesitan cambiar.
+
+DIRECCIONES DE GITHUB PAGES
+Portada: https://lmezquit-lm.github.io/ProyectoDocente/
+Competencias: https://lmezquit-lm.github.io/ProyectoDocente/competencias.html
+Evaluación (tras subir los archivos): https://lmezquit-lm.github.io/ProyectoDocente/evaluacion.html
+Para Genially puede insertarse cada subpágina por separado.
