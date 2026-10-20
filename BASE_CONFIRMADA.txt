@@ -1,0 +1,7 @@
+BASE CONFIRMADA · 20 de octubre de 2026
+
+Copia del ZIP facilitado por Laura. Los HTML y las imágenes no se han modificado. Ya incluye el ajuste de Temperamento y las fichas_hd_v14 de planificación.
+
+Para actualizar GitHub, subir el contenido de esta carpeta a la raíz del repositorio. Conservar las tres carpetas de fichas: esta base todavía contiene referencias a ellas.
+
+En Genially utilizar planificacion.html?base=20261020 para evitar versiones guardadas en caché.
